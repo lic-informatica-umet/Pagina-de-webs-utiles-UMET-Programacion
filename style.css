@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans); /* esta linea importa fonts desde google apis */
+
+body {
+    background-color: #3b413c;
+    font-family: 'Open Sans', sans-serif; /* notese que el nombre del font de google api esta entre ('') */
+    color: #ffffff; /* color del texto */
+    text-align: center;
+}
+
+a, a:visited {
+    color: #daf0ee; /* color del texto de links */
+}
+
+a:hover {
+    color: #94d1be /* color del texto al pasar el mouse */
+}
