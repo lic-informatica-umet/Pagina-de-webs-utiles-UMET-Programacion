@@ -3,8 +3,12 @@
 body {
     background-color: #3b413c;
     font-family: 'Open Sans', sans-serif; /* notese que el nombre del font de google api esta entre ('') */
-    color: #ffffff; /* color del texto */
+    /*color: #ffffff; color del texto */
     text-align: center;
+}
+/*agrego para el texto de la pagina en blanco, no todo el texto en el body.*/
+.container{
+	color:#ffffff;
 }
 
 a, a:visited {
